@@ -1,0 +1,225 @@
+,codes,lang
+0,0x436,Afrikaans - South Africa
+1,0x041c,Albanian - Albania
+2,0x045e,Amharic - Ethiopia
+3, 0x401,Arabic - Saudi Arabia
+4,0x1401,Arabic - Algeria
+5,0x3c01,Arabic - Bahrain
+6,0x0c01,Arabic - Egypt
+7, 0x801,Arabic - Iraq
+8, 0x2c01,Arabic - Jordan
+9, 0x3401,Arabic - Kuwait
+10,0x3001,Arabic - Lebanon
+11,0x1001,Arabic - Libya
+12,0x1801,Arabic - Morocco
+13, 0x2001,Arabic - Oman
+14,0x4001,Arabic - Qatar
+15,0x2801,Arabic - Syria
+16,0x1c01,Arabic - Tunisia
+17, 0x3801,Arabic - U.A.E.
+18,0x2401,Arabic - Yemen
+19,0x042b,Armenian - Armenia
+20,0x044d,Assamese
+21,0x082c,Azeri (Cyrillic)
+22, 0x042c,Azeri (Latin)
+23,0x042d,Basque
+24,0x423,Belarusian
+25, 0x445,Bengali (India)
+26,0x845,Bengali (Bangladesh)
+27,0x141A,Bosnian (Bosnia/Herzegovina)
+28, 0x402,Bulgarian
+29, 0x455,Burmese
+30, 0x403,Catalan
+31,0x045c,Cherokee - United States
+32,0x804,Chinese - People's Republic of China
+33, 0x1004,Chinese - Singapore
+34,0x404,Chinese - Taiwan
+35, 0x0c04,Chinese - Hong Kong SAR
+36, 0x1404,Chinese - Macao SAR
+37,0x041a,Croatian
+38, 0x101a,Croatian (Bosnia/Herzegovina)
+39, 0x405,Czech
+40,0x406,Danish
+41,0x465,Divehi
+42, 0x413,Dutch - Netherlands
+43, 0x813,Dutch - Belgium
+44, 0x466,Edo
+45, 0x409,English - United States
+46,0x809,English - United Kingdom
+47, 0x0c09,English - Australia
+48,0x2809,English - Belize
+49,0x1009,English - Canada
+50, 0x2409,English - Caribbean
+51, 0x3c09,English - Hong Kong SAR
+52, 0x4009,English - India
+53, 0x3809,English - Indonesia
+54, 0x1809,English - Ireland
+55, 0x2009,English - Jamaica
+56,0x4409,English - Malaysia
+57, 0x1409,English - New Zealand
+58, 0x3409,English - Philippines
+59, 0x4809,English - Singapore
+60,0x1c09,English - South Africa
+61,0x2c09,English - Trinidad
+62,0x3009,English - Zimbabwe
+63,0x425,Estonian
+64, 0x438,Faroese
+65, 0x429,Farsi
+66,0x464,Filipino
+67, 0x040b,Finnish
+68, 0x040c,French - France
+69,0x080c,French - Belgium
+70, 0x2c0c,French - Cameroon
+71, 0x0c0c,French - Canada
+72, 0x240c,French - Democratic Rep. of Congo
+73,0x300c,French - Cote d'Ivoire
+74,0x3c0c,French - Haiti
+75, 0x140c,French - Luxembourg
+76, 0x340c,French - Mali
+77, 0x180c,French - Monaco
+78,0x380c,French - Morocco
+79, 0xe40c,French - North Africa
+80,0x200c,French - Reunion
+81,0x280c,French - Senegal
+82,0x100c,French - Switzerland
+83,0x1c0c,French - West Indies
+84, 0x462,Frisian - Netherlands
+85,0x467,Fulfulde - Nigeria
+86, 0x042f,FYRO Macedonian
+87,0x083c,Gaelic (Ireland)
+88, 0x043c,Gaelic (Scotland)
+89,0x456,Galician
+90,0x437,Georgian
+91,0x407,German - Germany
+92,0x0c07,German - Austria
+93,0x1407,German - Liechtenstein
+94, 0x1007,German - Luxembourg
+95,0x807,German - Switzerland
+96, 0x408,Greek
+97,0x474,Guarani - Paraguay
+98,0x447,Gujarati
+99, 0x468,Hausa - Nigeria
+100,0x475,Hawaiian - United States
+101,0x040d,Hebrew
+102, 0x439,Hindi
+103, 0x040e,Hungarian
+104,0x469,Ibibio - Nigeria
+105, 0x040f,Icelandic
+106,0x470,Igbo - Nigeria
+107,0x421,Indonesian
+108, 0x045d,Inuktitut
+109, 0x410,Italian - Italy
+110, 0x810,Italian - Switzerland
+111,0x411,Japanese
+112, 0x044b,Kannada
+113,0x471,Kanuri - Nigeria
+114,0x860,Kashmiri
+115, 0x460,Kashmiri (Arabic)
+116,0x043f,Kazakh
+117, 0x453,Khmer
+118, 0x457,Konkani
+119,0x412,Korean
+120, 0x440,Kyrgyz (Cyrillic)
+121, 0x454,Lao
+122, 0x476,Latin
+123, 0x426,Latvian
+124,0x427,Lithuanian
+125,0x43e,Malay - Malaysia
+126, 0x83e,Malay - Brunei Darussalam
+127, 0x44c,Malayalam
+128, 0x43a,Maltese
+129,0x458,Manipuri
+130, 0x481,Maori - New Zealand
+131, 0x44e,Marathi
+132,0x450,Mongolian (Cyrillic)
+133, 0x850,Mongolian (Mongolian)
+134,0x461,Nepali
+135,0x861,Nepali - India
+136,0x414,Norwegian (Bokmål)
+137, 0x814,Norwegian (Nynorsk)
+138, 0x448,Oriya
+139, 0x472,Oromo
+140,0x479,Papiamentu
+141,0x463,Pashto
+142,0x415,Polish
+143, 0x416,Portuguese - Brazil
+144, 0x816,Portuguese - Portugal
+145, 0x446,Punjabi
+146,0x846,Punjabi (Pakistan)
+147,0x046B,Quecha - Bolivia
+148,0x086B,Quecha - Ecuador
+149, 0x0C6B,Quecha - Peru
+150,0x417,Rhaeto-Romanic
+151,0x418,Romanian
+152,0x818,Romanian - Moldava
+153, 0x419,Russian
+154, 0x819,Russian - Moldava
+155,0x043b,Sami (Lappish)
+156,0x044f,Sanskrit
+157,0x046c,Sepedi
+158,0x0c1a,Serbian (Cyrillic)
+159, 0x081a,Serbian (Latin)
+160,0x459,Sindhi - India
+161, 0x859,Sindhi - Pakistan
+162, 0x045b,Sinhalese - Sri Lanka
+163,0x041b,Slovak
+164, 0x424,Slovenian
+165,0x477,Somali
+166, 0x042e,Sorbian
+167, 0x0c0a,Spanish - Spain (Modern Sort)
+168,0x040a,Spanish - Spain (Traditional Sort)
+169, 0x2c0a,Spanish - Argentina
+170, 0x400a,Spanish - Bolivia
+171, 0x340a,Spanish - Chile
+172,0x240a,Spanish - Colombia
+173,0x140a,Spanish - Costa Rica
+174,0x1c0a,Spanish - Dominican Republic
+175, 0x300a,Spanish - Ecuador
+176, 0x440a,Spanish - El Salvador
+177, 0x100a,Spanish - Guatemala
+178,0x480a,Spanish - Honduras
+179, 0xe40a,Spanish - Latin America
+180,0x080a,Spanish - Mexico
+181, 0x4c0a,Spanish - Nicaragua
+182,0x180a,Spanish - Panama
+183,0x3c0a,Spanish - Paraguay
+184,0x280a,Spanish - Peru
+185, 0x500a,Spanish - Puerto Rico
+186, 0x540a,Spanish - United States
+187, 0x380a,Spanish - Uruguay
+188, 0x200a,Spanish - Venezuela
+189,0x430,Sutu
+190, 0x441,Swahili
+191, 0x041d,Swedish
+192, 0x081d,Swedish - Finland
+193,0x045a,Syriac
+194, 0x428,Tajik
+195,0x045f,Tamazight (Arabic)
+196, 0x085f,Tamazight (Latin)
+197, 0x449,Tamil
+198, 0x444,Tatar
+199,0x044a,Telugu
+200,0x041e,Thai
+201,0x851,Tibetan - Bhutan
+202,0x451,Tibetan - People's Republic of China
+203,0x873,Tigrigna - Eritrea
+204, 0x473,Tigrigna - Ethiopia
+205,0x431,Tsonga
+206,0x432,Tswana
+207, 0x041f,Turkish
+208, 0x442,Turkmen
+209,0x480,Uighur - China
+210, 0x422,Ukrainian
+211,0x420,Urdu
+212,0x820,Urdu - India
+213,0x843,Uzbek (Cyrillic)
+214, 0x443,Uzbek (Latin)
+215, 0x433,Venda
+216,0x042a,Vietnamese
+217, 0x452,Welsh
+218, 0x434,Xhosa
+219,0x478,Yi
+220, 0x043d,Yiddish
+221,0x046a,Yoruba
+222,0x435,Zulu
+223,0x04ff,HID (Human Interface Device)
